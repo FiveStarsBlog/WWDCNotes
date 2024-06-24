@@ -1,3 +1,5 @@
+> ⚠️ This is the old WWDC Notes repository. Notes were migrated to a new all-in-one repo [here](https://github.com/WWDCNotes/WWDCNotes) which contains not only the notes, but also the entire stack to fully deploy it to the redesigned [wwdcnotes.com](wwdcnotes.com) website. It also improves the editing experience by using [Swift-DocC](https://github.com/apple/swift-docc) which gives you a live preview of your note right within Xcode while editing it. Learn how it works [here](https://wwdcnotes.com/documentation/wwdcnotes/contributing/).
+
 # WWDC Notes content
 
 This repository contains all community notes from **[WWDC Notes][website]**. [Refer here][wnAbout] to know more about the project.
